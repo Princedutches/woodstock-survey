@@ -1,0 +1,56 @@
+body {
+  text-align:center;
+  background-image: url("http://2.bp.blogspot.com/-CWm41gAs1Kc/URTWPx415HI/AAAAAAAAAnk/pmAyeeFWPv4/s1600/woodstock+(1).jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  font-size: 22px;
+}
+
+h1 {
+  font-family: Ranchers;
+  font-size: 60px;
+  color: #F55B43
+}
+
+#survey-form {
+  width:900px;
+  margin: 0 auto;
+  background-color:hsla(0, 0%, 2%, 0.64);
+  color:white;
+  
+}
+.row-tab {
+  display:block;
+  padding-top:20px;
+}
+.label-woodstock {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+.input-woodstock{
+  display: inline-block;
+  width: 48%;
+  text-align:left;
+}
+
+.select-input {
+  display: inline-block;
+  width: 48%;
+  text-align:left;
+}
+
+.label-select {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+
+.labels-radio {
+}
+
+.input-radio {
+  padding-top: 10px;
+}
